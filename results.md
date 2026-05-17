@@ -6,3 +6,4 @@
 | 2026-05-17 18:26 | AI 素養新標尺：從 UNESCO 到 AILIS 1.0、圖書館員怎麼成 AI 守門人 | [ai-literacy-ailis-1-unesco](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-17-ai-literacy-ailis-1-unesco) |
 | 2026-05-17 19:02 | 當分類法遇上 LLM：知識組織如何重新定義 RAG 的可信度 | [knowledge-org-meets-llm](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-17-knowledge-org-meets-llm) |
 | 2026-05-17 19:47 | 把 1980 的照片變成 2026 的廣告：奢侈品檔案的 AI 復活 | [luxury-heritage-archive-ai](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-17-luxury-heritage-archive-ai) |
+| 2026-05-17 20:29 | 你的下個造型師是 AI agent：Kering Madeline 與 luxury 的 agentic 轉向 | [agentic-luxury-shopping-stylist](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-17-agentic-luxury-shopping-stylist) |
