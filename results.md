@@ -10,3 +10,4 @@
 | 2026-05-17 21:03 | 合成代言人時代：AI influencer 遇上 EU AI Act 與 FTC | [synthetic-influencer-eu-ai-act](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-17-synthetic-influencer-eu-ai-act) |
 | 2026-05-18 10:42 | 被偷渡的引用：學術誠信在 LLM 時代的崩塌與重建 | [sneaked-references-scholarly-integrity](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-18-sneaked-references-scholarly-integrity) |
 | 2026-05-18 13:19 | 錯訊治理的社會技術轉向：從偵測模型到制度設計 | [misinfo-sociotechnical-governance](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-18-misinfo-sociotechnical-governance) |
+| 2026-05-18 16:08 | 讓檔案會說話：LLM × 知識圖譜重寫文化遺產基礎建設 | [rag-cultural-heritage-stack](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-18-rag-cultural-heritage-stack) |
