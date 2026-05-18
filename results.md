@@ -12,3 +12,4 @@
 | 2026-05-18 13:19 | 錯訊治理的社會技術轉向：從偵測模型到制度設計 | [misinfo-sociotechnical-governance](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-18-misinfo-sociotechnical-governance) |
 | 2026-05-18 16:08 | 讓檔案會說話：LLM × 知識圖譜重寫文化遺產基礎建設 | [rag-cultural-heritage-stack](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-18-rag-cultural-heritage-stack) |
 | 2026-05-18 18:57 | 代理人接管行銷組合模型：MMM 4.0 與 AI 媒體分配的崛起 | [agentic-marketing-mix-modeling](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-18-agentic-marketing-mix-modeling) |
+| 2026-05-18 21:50 | Entrupy 與 Vestiaire：AI 鑑定如何重建二手奢侈品的信任基礎 | [luxury-resale-ai-authentication](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-18-luxury-resale-ai-authentication) |
