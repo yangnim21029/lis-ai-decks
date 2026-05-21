@@ -20,3 +20,4 @@
 | 2026-05-21 18:00 | 對齊有理論天花板：Best-of-N 已接近極限、PPO/GRPO 還差很遠 | [alignment-theoretical-ceiling](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-21-alignment-theoretical-ceiling) |
 | 2026-05-21 18:42 | 把程式碼當代理人骨架：42 作者重定義 agent infrastructure | [code-as-agent-harness-paradigm](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-21-code-as-agent-harness-paradigm) |
 | 2026-05-21 19:12 | 生成式 AI 廣告：四層干預裡只有第一層被治理 | [genai-advertising-trust](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-21-genai-advertising-trust) |
+| 2026-05-21 20:04 | 結構化使用 vs 放任使用：AI 對批判思考的 2026 整合證據 | [structured-vs-unguided-ai-critical-thinking](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-21-structured-vs-unguided-ai-critical-thinking) |
