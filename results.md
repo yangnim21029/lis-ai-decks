@@ -14,3 +14,4 @@
 | 2026-05-18 18:57 | 代理人接管行銷組合模型：MMM 4.0 與 AI 媒體分配的崛起 | [agentic-marketing-mix-modeling](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-18-agentic-marketing-mix-modeling) |
 | 2026-05-18 21:50 | Entrupy 與 Vestiaire：AI 鑑定如何重建二手奢侈品的信任基礎 | [luxury-resale-ai-authentication](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-18-luxury-resale-ai-authentication) |
 | 2026-05-19 00:44 | Aman 的生物指標管家：奢華服務業如何用 AI 重寫個人化邊界 | [luxury-ai-hospitality-biometric](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-18-luxury-ai-hospitality-biometric) |
+| 2026-05-21 10:13 | 幽靈引用：LLM 在學術文獻造出 14 萬筆不存在的引文 | [ghost-citations-llm-academia](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-21-ghost-citations-llm-academia) |
