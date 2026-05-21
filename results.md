@@ -18,3 +18,4 @@
 | 2026-05-21 14:59 | LLM 不懂消費者：頂尖模型只能對中 47.8% 真實反應 | [consumer-simbench-llm-gap](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-21-consumer-simbench-llm-gap) |
 | 2026-05-21 17:16 | 引用網路會衰老：20 年判決書揭示共引預測力半衰期 | [co-citation-temporal-decay](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-21-co-citation-temporal-decay) |
 | 2026-05-21 18:00 | 對齊有理論天花板：Best-of-N 已接近極限、PPO/GRPO 還差很遠 | [alignment-theoretical-ceiling](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-21-alignment-theoretical-ceiling) |
+| 2026-05-21 18:42 | 把程式碼當代理人骨架：42 作者重定義 agent infrastructure | [code-as-agent-harness-paradigm](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-21-code-as-agent-harness-paradigm) |
