@@ -23,3 +23,4 @@
 | 2026-05-21 20:04 | 結構化使用 vs 放任使用：AI 對批判思考的 2026 整合證據 | [structured-vs-unguided-ai-critical-thinking](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-21-structured-vs-unguided-ai-critical-thinking) |
 | 2026-05-22 23:13 | 人類紅隊跑 20 小時、Claude Mythos 3 小時跑完——AISI 把 32 步攻擊鏈當尺 | [aisi-frontier-cyber-capability](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-22-aisi-frontier-cyber-capability) |
 | 2026-05-22 23:58 | DeepSeek V4 換 Huawei 晶片、Kimi 開源拿 SWE-Bench 第一——中國 LLM 一個月把成本曲線踩平 | [deepseek-v4-kimi-qwen-trio](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-22-deepseek-v4-kimi-qwen-trio) |
+| 2026-05-23 00:52 | Anthropic 賠 15 億、Disney 告 Midjourney——LLM 跟 image-gen 在 fair use 上分流 | [anthropic-15b-vs-disney-midjourney](https://github.com/yangnim21029/lis-ai-decks/tree/main/decks/2026-05-22-anthropic-15b-vs-disney-midjourney) |
